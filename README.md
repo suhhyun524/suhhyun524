@@ -1,4 +1,6 @@
-## Suhyun-Choi
+<div align='center'>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suhhyun%&fontSize=60)
 
 ### 🍮 History
 - 이화여자대학교 컴퓨터공학전공<sub>(2020.03 ~ )</sub>
@@ -22,7 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 
-### 🥝 Tools
+### 🍰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
@@ -31,6 +33,8 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2835223)](https://solved.ac/2835223/)
+
+![Suhhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhhyun524&show_icons=true&theme=material-palenight)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-Hyeon-Lee&count_bg=%23DAA1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

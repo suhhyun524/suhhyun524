@@ -9,13 +9,13 @@
 ### 🍧 Skills
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![image](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 <br>
 ![image](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white)
 ![image](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![image](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br>
@@ -29,12 +29,10 @@
 ![image](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 <br>
-
-[![Anurag's github stats](https://github-readme-stats-5vzslroah-hyunihs.vercel.app/api?username=hyunihs&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon918)](https://solved.ac/hyeon918/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2835223)](https://solved.ac/profile/2835223)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-Hyeon-Lee&count_bg=%23DAA1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
-**Jeong-Hyeon-Lee/Jeong-Hyeon-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

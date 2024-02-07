@@ -2,6 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suhhyun%&fontSize=60)
 
+<div align = 'start'>
+
 ### 🍮 History
 - 이화여자대학교 컴퓨터공학전공<sub>(2020.03 ~ )</sub>
 - 신촌 연합 IT 창업 동아리 [CEOS](https://ceos-sinchon.com) 16기 Backend 파트 <sub>(2022.09 ~ 2022.02)</sub>

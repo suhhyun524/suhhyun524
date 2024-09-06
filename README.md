@@ -4,16 +4,6 @@
 
 <div align = 'start'>
 
-<--
-
-### 🍮 History
-- 이화여자대학교 컴퓨터공학전공<sub>(2020.03 ~ )</sub>
-- 신촌 연합 IT 창업 동아리 [CEOS](https://ceos-sinchon.com) 16기 Backend 파트 <sub>(2022.09 ~ 2023.02)</sub>
-- 신촌 연합 IT 창업 동아리 [CEOS](https://ceos-sinchon.com) 17기 Backend 운영진 <sub>(2023.02 ~ 2023.08)</sub>
-- 신촌 연합 IT 창업 동아리 [CEOS](https://ceos-sinchon.com) 18기 Backend 운영진 <sub>(2022.08 ~ 2024.02)</sub>
-
--->
-  
 ### 🍧 Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
